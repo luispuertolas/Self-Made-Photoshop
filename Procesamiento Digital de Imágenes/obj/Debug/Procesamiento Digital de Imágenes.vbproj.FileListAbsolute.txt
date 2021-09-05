@@ -1,0 +1,10 @@
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\bin\Debug\Procesamiento Digital de Imágenes.exe.config
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\bin\Debug\Procesamiento Digital de Imágenes.exe
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\bin\Debug\Procesamiento Digital de Imágenes.pdb
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\bin\Debug\Procesamiento Digital de Imágenes.xml
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\obj\Debug\Procesamiento_Digital_de_Imágenes.Form1.resources
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\obj\Debug\Procesamiento_Digital_de_Imágenes.Resources.resources
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\obj\Debug\Procesamiento Digital de Imágenes.vbproj.GenerateResource.Cache
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\obj\Debug\Procesamiento Digital de Imágenes.exe
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\obj\Debug\Procesamiento Digital de Imágenes.xml
+c:\users\luis.p\documents\visual studio 2013\Projects\Procesamiento Digital de Imágenes\Procesamiento Digital de Imágenes\obj\Debug\Procesamiento Digital de Imágenes.pdb
